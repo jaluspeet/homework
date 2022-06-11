@@ -1,0 +1,315 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+Marxismo ^34KXUntM
+
+analisi globale della società finalizzata alla prassi ^iH1ZJdiy
+
+critica del misticismo logico di Hegel mediante il ri-capovolgimento dei rapporti tra soggetto e predicato ^gaAkSYsz
+
+critica dello stato moderno e dell'economia borghese ^ykH34Fkz
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://excalidraw.com",
+	"elements": [
+		{
+			"type": "rectangle",
+			"version": 31,
+			"versionNonce": 1068230420,
+			"isDeleted": false,
+			"id": "eHM4BzLSV5xZzROn-9F8s",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -140,
+			"y": -320,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 380,
+			"height": 40,
+			"seed": 1964746004,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "34KXUntM"
+				}
+			],
+			"updated": 1654453390647,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 19,
+			"versionNonce": 1320731692,
+			"isDeleted": false,
+			"id": "34KXUntM",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -135,
+			"y": -311.5,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 370,
+			"height": 23,
+			"seed": 718474900,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1654453390647,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "Marxismo",
+			"rawText": "Marxismo",
+			"baseline": 19,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "eHM4BzLSV5xZzROn-9F8s",
+			"originalText": "Marxismo"
+		},
+		{
+			"type": "rectangle",
+			"version": 83,
+			"versionNonce": 692446356,
+			"isDeleted": false,
+			"id": "Di1XKv7lQ2fZLEyO5VPMU",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -360,
+			"y": -260,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 200,
+			"height": 100,
+			"seed": 576728492,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [
+				{
+					"id": "iH1ZJdiy",
+					"type": "text"
+				}
+			],
+			"updated": 1654453390647,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 137,
+			"versionNonce": 1642553004,
+			"isDeleted": false,
+			"id": "iH1ZJdiy",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -355,
+			"y": -237,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 190,
+			"height": 54,
+			"seed": 1430508308,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1654453390647,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 2,
+			"text": "analisi globale della \nsocietà finalizzata alla \nprassi",
+			"rawText": "analisi globale della società finalizzata alla prassi",
+			"baseline": 50,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "Di1XKv7lQ2fZLEyO5VPMU",
+			"originalText": "analisi globale della società finalizzata alla prassi"
+		},
+		{
+			"type": "rectangle",
+			"version": 143,
+			"versionNonce": 432288276,
+			"isDeleted": false,
+			"id": "4tp5eCPi5dm7OQqkTQCx8",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -140,
+			"y": -260,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 380,
+			"height": 100,
+			"seed": 1691955988,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [
+				{
+					"id": "gaAkSYsz",
+					"type": "text"
+				}
+			],
+			"updated": 1654453390647,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 344,
+			"versionNonce": 1051946412,
+			"isDeleted": false,
+			"id": "gaAkSYsz",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -135,
+			"y": -237,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 370,
+			"height": 54,
+			"seed": 1456879660,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1654453394710,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 2,
+			"text": "critica del misticismo logico di Hegel mediante il \nri-capovolgimento dei rapporti tra soggetto e \npredicato",
+			"rawText": "critica del misticismo logico di Hegel mediante il ri-capovolgimento dei rapporti tra soggetto e predicato",
+			"baseline": 50,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "4tp5eCPi5dm7OQqkTQCx8",
+			"originalText": "critica del misticismo logico di Hegel mediante il ri-capovolgimento dei rapporti tra soggetto e predicato"
+		},
+		{
+			"type": "rectangle",
+			"version": 120,
+			"versionNonce": 1344065428,
+			"isDeleted": false,
+			"id": "hm8b8w04hEcMG2IVZVSNI",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 260,
+			"y": -260,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 200,
+			"height": 102,
+			"seed": 296089364,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [
+				{
+					"id": "ykH34Fkz",
+					"type": "text"
+				}
+			],
+			"updated": 1654453390648,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 372,
+			"versionNonce": 1753785260,
+			"isDeleted": false,
+			"id": "ykH34Fkz",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 265,
+			"y": -227,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 190,
+			"height": 36,
+			"seed": 1026012204,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1654453390648,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 2,
+			"text": "critica dello stato moderno\ne dell'economia borghese",
+			"rawText": "critica dello stato moderno e dell'economia borghese",
+			"baseline": 33,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "hm8b8w04hEcMG2IVZVSNI",
+			"originalText": "critica dello stato moderno e dell'economia borghese"
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#000000",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 0,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 2,
+		"currentItemFontSize": 16,
+		"currentItemTextAlign": "center",
+		"currentItemStrokeSharpness": "sharp",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemLinearStrokeSharpness": "round",
+		"gridSize": 20,
+		"colorPalette": {}
+	},
+	"files": {}
+}
+```
+%%

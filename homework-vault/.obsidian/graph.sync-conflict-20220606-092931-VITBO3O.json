@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "-path:zzz",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:arte",
+      "color": {
+        "a": 1,
+        "rgb": 15270145
+      }
+    },
+    {
+      "query": "path:filosofia",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    },
+    {
+      "query": "path:fisica",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "path:informatica",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:inglese",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:italiano",
+      "color": {
+        "a": 1,
+        "rgb": 39398
+      }
+    },
+    {
+      "query": "path:matematica",
+      "color": {
+        "a": 1,
+        "rgb": 11571199
+      }
+    },
+    {
+      "query": "path:scienze",
+      "color": {
+        "a": 1,
+        "rgb": 11737855
+      }
+    },
+    {
+      "query": "path:storia",
+      "color": {
+        "a": 1,
+        "rgb": 16751069
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 1.89275629220381,
+  "lineSizeMultiplier": 1.97257038391225,
+  "collapse-forces": true,
+  "centerStrength": 0.823725795682172,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.8189488433285659,
+  "close": true
+}

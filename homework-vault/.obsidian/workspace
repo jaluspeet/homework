@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "486228e36e3ef909",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbfbef8c063691a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "scienze/derivati degli idrocarburi/derivati degli idrocarburi.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13427be0169f638e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a1b95df57ac3024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d7edc0d2fbfc1ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8bf23e246dd4e52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "karl",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "feedf0483fbc80bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2cdf468d0062a26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b544ef8452ba9cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "scienze/derivati degli idrocarburi/derivati degli idrocarburi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "244f5844f92e7d50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bbfbef8c063691a7",
+  "lastOpenFiles": [
+    "scienze/derivati degli idrocarburi/derivati degli idrocarburi.md",
+    "filosofia/Karl Marx/Karl Marx.md",
+    "italiano/Giacomo Leopardi/Giacomo Leopardi.md",
+    "italiano/Giovanni Pascoli/Giovanni Pascoli.md",
+    "italiano/Giovanni Pascoli/simbolismo.md",
+    "italiano/Gabriele d'Annunzio/Gabriele d'Annunzio.md",
+    "italiano/Luigi Pirandello/Luigi Pirandello.md",
+    "italiano/Ugo Foscolo/Ugo Foscolo.md",
+    "italiano/Giacomo Leopardi/Giacomo Leopardi.pdf",
+    "scienze/fotosintesi/fotosintesi.pdf"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "486228e36e3ef909",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87e2130036e4cbb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c99de7ff932d69f3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "605a0c6cc2af574d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a5b32530c8189036",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5e7502d8c83783c8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6b2031cdfb97b24f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a80df97a1ebd1363",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c87e2130036e4cbb",
+  "lastOpenFiles": [
+    "zzzmedia/excalidrawings/210632.excalidraw.md",
+    "filosofia/Karl Marx/Karl Marx.md",
+    "filosofia/Karl Marx/Marx - Engels -  Manifesto del Partito Comunista (1848).pdf",
+    "filosofia/Karl Marx/Karl Marx.pdf",
+    "zzzmedia/excalidrawings/Karl Marx 200643_0.excalidraw.md",
+    "zzzmedia/excalidrawings/Karl Marx 200655.excalidraw.md",
+    "zzzmedia/excalidrawings/Karl Marx 200643.excalidraw.md",
+    "zzzmedia/excalidrawings/Karl Marx 200629.excalidraw.md",
+    "Untitled.md",
+    "filosofia/John Locke/John Locke.md"
+  ]
+}

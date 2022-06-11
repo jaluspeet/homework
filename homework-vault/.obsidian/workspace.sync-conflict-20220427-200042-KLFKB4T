@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "486228e36e3ef909",
+    "type": "split",
+    "children": [
+      {
+        "id": "bba037a5e7f0683d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c34239e0d8b3a2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "53bcb4318cee2d24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5438f2dd974f37a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "89d53a2d4ea044a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "243177cb10fd35ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb763106b2bec06f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f55348d23a18ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b10d90fa304b7a8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bba037a5e7f0683d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "scienze/scienze.md",
+    "scienze/scienze.md",
+    "fotosintesi.md",
+    "fisica/fisica quantistica/Planck.md",
+    "fisica/fisica quantistica/CORPO NERO + effetto fotoelettrico.pdf",
+    "informatica/informatica.md",
+    "informatica/AI/Algoritmi di classificazione.md",
+    "fisica/fisica.sync-conflict-20220427-185749-VITBO3O.md",
+    "fisica/fisica.sync-conflict-20220427-185720-FVX7DND.md"
+  ]
+}

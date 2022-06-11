@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "486228e36e3ef909",
+    "type": "split",
+    "children": [
+      {
+        "id": "72a1af43d0dd3417",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "scienze/fotosintesi/fotosintesi.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13765c22556c601d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc747d8f326c93ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef411d76dbae96b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31660407a9a7142b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.0036334991455
+  },
+  "right": {
+    "id": "d3c9897d28ede978",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ddd469ab6787720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2d4dd4815de7a23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "scienze/fotosintesi/fotosintesi.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0b22b16fd3fd52d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "72a1af43d0dd3417",
+  "lastOpenFiles": [
+    "scienze/fotosintesi/fotosintesi.pdf",
+    "scienze/fotosintesi/fotosintesi.md",
+    "zzzmedia/templates/latex.md",
+    "zzzmedia/stuff/Pasted image 20220506193118.png",
+    "zzzmedia/stuff/Pasted image 20220506193929.png",
+    "zzzmedia/stuff/Pasted image 20220511175622.png",
+    "zzzmedia/stuff/Pasted image 20220511175748.png",
+    "zzzmedia/stuff/Pasted image 20220512160827.png",
+    "zzzmedia/stuff/Pasted image 20220512180452.png",
+    "zzzmedia/stuff/Pasted image 20220512192259.png"
+  ]
+}

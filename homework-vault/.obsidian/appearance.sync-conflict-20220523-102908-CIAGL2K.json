@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 20,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "latex"
+  ],
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": true,
+  "textFontFamily": "DejaVu Sans",
+  "interfaceFontFamily": ""
+}

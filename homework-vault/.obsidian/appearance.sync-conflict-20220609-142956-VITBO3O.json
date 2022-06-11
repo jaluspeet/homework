@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "latex"
+  ],
+  "cssTheme": "",
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
+}

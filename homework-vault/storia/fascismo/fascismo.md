@@ -1,0 +1,1 @@
+Influenzato indirettamente da [[Friedrich Nietzsche]]
