@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "scienze/derivati degli idrocarburi/derivati degli idrocarburi.md",
+            "file": "filosofia/Karl Marx/Karl Marx.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scienze/derivati degli idrocarburi/derivati degli idrocarburi.md",
+                "file": "filosofia/Karl Marx/Karl Marx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "bbfbef8c063691a7",
   "lastOpenFiles": [
-    "scienze/derivati degli idrocarburi/derivati degli idrocarburi.md",
     "filosofia/Karl Marx/Karl Marx.md",
+    "filosofia/Karl Marx/Karl Marx.pdf",
+    "scienze/derivati degli idrocarburi/derivati degli idrocarburi.md",
     "italiano/Giacomo Leopardi/Giacomo Leopardi.md",
     "italiano/Giovanni Pascoli/Giovanni Pascoli.md",
     "italiano/Giovanni Pascoli/simbolismo.md",
     "italiano/Gabriele d'Annunzio/Gabriele d'Annunzio.md",
     "italiano/Luigi Pirandello/Luigi Pirandello.md",
     "italiano/Ugo Foscolo/Ugo Foscolo.md",
-    "italiano/Giacomo Leopardi/Giacomo Leopardi.pdf",
-    "scienze/fotosintesi/fotosintesi.pdf"
+    "italiano/Giacomo Leopardi/Giacomo Leopardi.pdf"
   ]
 }
